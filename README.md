@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **raefbouchahda@gmail.com**
 
-- 📄 Know about my experiences [https://main--raef-bouchahda.netlify.app/#contact](https://main--raef-bouchahda.netlify.app/#contact)
+- 📄 Know about my experiences [https://main--raef-bouchahda.netlify.app/#contact](https://main--raef-bouchahda.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
